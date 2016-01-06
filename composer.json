@@ -1,6 +1,14 @@
 {
   "name": "hongmizhijia/kang",
+  "type": "phpdocumentor-template",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/hongmizhijia/template"
+    }
+  ],
   "require": {
+    "phpdocumentor/template-installer-plugin": "dev-master",
     "monolog/monolog": "1.0.*"
   }
 }
