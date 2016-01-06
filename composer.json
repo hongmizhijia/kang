@@ -8,7 +8,6 @@
     }
   ],
   "require": {
-    "phpdocumentor/template-installer-plugin": "dev-master",
-    "monolog/monolog": "1.0.*"
+    "phpdocumentor/template-installer-plugin": "dev-master"
   }
 }
