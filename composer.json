@@ -8,6 +8,6 @@
     }
   ],
   "require": {
-    "phpdocumentor/template-installer-plugin": "dev-master"
+    "hongmizhijia/template-installer-plugin": "dev-master"
   }
 }
