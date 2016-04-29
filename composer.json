@@ -1,13 +1,14 @@
 {
-  "name": "hongmizhijia/kang",
-  "type": "phpdocumentor-template",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/hongmizhijia/template"
-    }
-  ],
+  "name": "phpdocumentor/template-installer-plugin",
+  "type": "composer-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-0": {"phpDocumentor\\Composer": "src/"}
+  },
+  "extra": {
+    "class": "phpDocumentor\\Composer\\TemplateInstallerPlugin"
+  },
   "require": {
-    "hongmizhijia/template-installer-plugin": "dev-master"
+    "composer-plugin-api": "1.0.0"
   }
 }
