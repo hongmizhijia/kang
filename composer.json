@@ -1,5 +1,5 @@
 {
-  "name": "phpdocumentor/template-installer-plugin",
+  "name": "phpdocumentor1/template-installer-plugin",
   "type": "composer-plugin",
   "license": "MIT",
   "autoload": {
